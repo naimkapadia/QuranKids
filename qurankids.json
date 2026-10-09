@@ -3,57 +3,44 @@
   "stations": [
     {
       "name": "Australia",
-      "url": "http://82.14.254.238:8000/Qurankids/SuratAlFalaq.mp3"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Bangladesh",
-      "url": "http://stream.zeno.fm/1z49becwn18uv"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Bangla al Quran",
-      "url": "http://66.45.232.131:9994/;stream/1/;"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Canada",
-      "url": "http://canada1.reliastream.com:8191/stream"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Chinese",
-      "url": "http://66.45.232.131:9302/;"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Egypt",
-      "url": "http://stream.radiojar.com/8s5u5tpdtwzuv"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
        {
       "name": "Kuwait",
-      "url": "http://s2.voscast.com:12312/stream"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Kurdish",
-      "url": "http://strw3.openstream.co/2388"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
     {
       "name": "Morocco",
-      "url": "http://virmach1.hajjam.net:8005/;"
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
     },
                   {
       "name": "SaudiArabia",
-      "url": "http://n13.radiojar.com/4wqre23fytzuv"
-    },
-    {
-      "name": "SouthAfrica",
-      "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
-    },
-    {
-      "name": "Sudan",
-      "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
-    },
-    
-    {
-      "name": "Turkey",
-      "url": "http://yayin.radyofeza.com/8002/stream"
-    }
-         
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
+                     }
+             
   ]
 }
