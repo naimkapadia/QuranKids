@@ -1,9 +1,9 @@
 {
-  "city": "QuranWorld",
+  "city": "Qurankids",
   "stations": [
     {
       "name": "Australia",
-      "url": "http://a2.asurahosting.com:7240/stream/1/"
+      "url": "http://82.14.254.238:8000/nuf002.mp3"
     },
     {
       "name": "Bangladesh",
